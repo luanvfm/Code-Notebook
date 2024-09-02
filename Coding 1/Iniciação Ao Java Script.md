@@ -1,3 +1,5 @@
+# Iniciação ao Javascript
+
 Esse projeto representa minhas anotações enquanto inicío meus estudos com JavaScript no curso de Análise e Desenvolvimento de Sistemas.
 
 
