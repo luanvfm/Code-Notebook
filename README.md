@@ -10,6 +10,6 @@ My Classes:
 | UI Design   | 1st     | Figma      |
 | Inovation    | 1st     | Project Management |
 | Projects    | 1st     | Project Management |
-| Coding      | 1st     | JavaScript |
+| [Coding](../Code-Notebook/Coding.md)      | 1st     | JavaScript |
 
 </center>
