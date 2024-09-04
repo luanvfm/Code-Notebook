@@ -2,8 +2,8 @@
 
 | Name    | Date          | Type     | 
 | --------|:-------------:| :-----:  | 
-| [Iniciação DB with MySQL](https://github.com/luanvfm/Code-Notebook/edit/main/Coding%201/Inicia%C3%A7%C3%A3o%20Ao%20Java%20Script.md) | 02/09/2024     | JS      |
-| []()   | 1st     | Figma      |
+| [Iniciação DB with MySQL](https://github.com/luanvfm/Code-Notebook/blob/main/Data%20Bank%20I/Aula1.md) | 02/09/2024     | MySQL     |
+| [Conceitos e Operações Básicas](https://github.com/luanvfm/Code-Notebook/blob/main/Data%20Bank%20I/Aula2.md)   | 03/09/2024    | Dados Relacionais e Tabelas Relacionais MySQL      |
 | []()    | 1st     | Project Management |
 | []()    | 1st     | Project Management |
 | []()      | 1st     | JavaScript |
