@@ -10,6 +10,6 @@ My Classes:
 | UI Design   | 1st     | Figma      |
 | Inovation    | 1st     | Project Management |
 | Projects    | 1st     | Project Management |
-| [Coding](https://github.com/luanvfm/Code-Notebook/blob/main/Coding.md)      | 1st     | JavaScript |
+| [Coding I](https://github.com/luanvfm/Code-Notebook/blob/main/Coding.md)      | 1st     | JavaScript |
 
 </center>
