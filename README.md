@@ -15,7 +15,7 @@ My Classes:
 </center>
 
 ### Extras: 
-Notes from Courses and BootCamps
+Notes from Courses, BootCamps and personal study
 <center>
   
 | Name    | Date          | Type     | Links     | 
