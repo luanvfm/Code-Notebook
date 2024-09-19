@@ -9,4 +9,4 @@ Todas as anotações sobre python
 |       | 1st     | JavaScript |
 
 **Link de Projetos e Atividades:**
-- [Atividade Sensor Python](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Estudos_Python/sensor.py)
+- [Atividade Teste Sensor Python](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Estudos_Python/sensor.py)
