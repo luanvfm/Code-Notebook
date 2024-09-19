@@ -22,7 +22,7 @@ Notes from Courses, BootCamps and personal study
 | --------|:-------------:| :-----:  |  :-----:  | 
 | [Analista de Ciberseguranca Cisco](https://github.com/luanvfm/Code-Notebook/blob/main/Banco%20de%20Dados.md) | 02/09/2024 ~ 23/09/2024    | CyberSecurity      | [Endpoint Cisco](https://www.netacad.com/courses/endpoint-security?courseLang=pt-BR&instance_id=978f6ee7-685d-4988-b2c3-5cfef58e0afe)      |
 | [Estudos Python](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Estudos_Python/EstudosPython.md)   | ---     | Python      | ---      |
-| Inovation    | 1st     | Project Management | [Endpoint Cisco](.)      |
+| [Oficina de GitHub](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Extras/Oficina%20GItHub.md)    | 19/09/2024    | Git and Github | [SemLink](.)      |
 | Projects    | 1st     | Project Management | [Endpoint Cisco](.)      |
 | [Coding I](https://github.com/luanvfm/Code-Notebook/blob/main/Coding.md)      | 1st     | JavaScript | [Endpoint Cisco](.)      |
 
