@@ -3,8 +3,8 @@
 
 | Name    | Date          | Type     | 
 | --------|:-------------:| :-----:  | 
-| [Iniciação JS](https://github.com/luanvfm/Code-Notebook/edit/main/Coding%201/Inicia%C3%A7%C3%A3o%20Ao%20Java%20Script.md) | 02/09/2024     | JS      |
-| [Iniciação JS, Node e GitHub](https://github.com/luanvfm/Code-Notebook/blob/main/Coding%201/Inicia%C3%A7%C3%A3o%20JS%20NODE%20E%20GIT.md)   | 04/09/2024     | JS, Node and GitHub      |
-| []()    | 1st     | Project Management |
-| []()    | 1st     | Project Management |
+| [Iniciação JS](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Javascript_Classes/Inicia%C3%A7%C3%A3o%20Ao%20Java%20Script.md) | 02/09/2024     | JS      |
+| [Iniciação JS, Node e GitHub](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Javascript_Classes/Inicia%C3%A7%C3%A3o%20JS%20NODE%20E%20GIT.md)   | 04/09/2024     | JS, Node and GitHub      |
+| [Intro. Programação Javascript](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Javascript_Classes/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20Javascript%203.md)    | 11/09/2024    | Introdução a Programação Javascript 3 |
+| [Intro. ao Git e Terminal](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Javascript_Classes/Introducao%20ao%20Git%20e%20Terminal.md)    | 18/09/2024    | Terminal e Git |
 | []()      | 1st     | JavaScript |
