@@ -33,6 +33,7 @@ Tem **dois projetos** diferentes em Python. O **Projeto A** precisa de uma **ver
 Para começar a trabalhar no projeto você precisa **ativar esse ambiente virtual** da seguinte forma:
 
     meu_ambiente_virtual\Scripts\activate
+É importante ativar tambem o interpretador do VS Code,**utilize cntrl + shift + p, escolha python select interpreter e ATIVE A VENV** e um **gitignore para a venv**
 
 A partir disso você já pode **instalar qualquer pacote sem afetar outro projetos:**
 
