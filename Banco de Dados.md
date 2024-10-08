@@ -8,4 +8,4 @@
 | []()    | 1st     | Project Management |
 | []()      | 1st     | JavaScript |
 
-[1° Atividade](https://github.com/luanvfm/Code-Notebook/blob/main/Data_Bank_I/atividadebd.sql) Data Bank
+[1° Atividade Data Bank] (https://github.com/luanvfm/Code-Notebook/blob/main/Data_Bank_I/atividadebd.sql)
