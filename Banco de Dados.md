@@ -9,3 +9,4 @@
 | []()      | 1st     | JavaScript |
 
 [1° Atividade Data Bank](https://github.com/luanvfm/Code-Notebook/blob/main/Data_Bank_I/atividadebd.sql)
+[2° Atividade Data Bank](https://github.com/luanvfm/Code-Notebook/blob/main/Data_Bank_I/atividade2.sql)
