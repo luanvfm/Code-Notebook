@@ -24,6 +24,6 @@ Notes from Courses, BootCamps and personal study
 | [Estudos Python](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Estudos_Python/EstudosPython.md)   | ---     | Python      | ---      |
 | [Oficina de GitHub](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Extras/Oficina%20GItHub.md)    | 19/09/2024    | Git and Github | [N/A](.)      |
 | [Contributing to an Open Source Project](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Extras/Oficina%20GItHub.md)    | 09/10/2024     | GitHub | [N/A](.)      |
-| [Coding I](https://github.com/luanvfm/Code-Notebook/blob/main/Coding.md)      | 1st     | JavaScript | [Endpoint Cisco](.)      |
+| [OpenCV Course](https://github.com/luanvfm/Code-Notebook/blob/main/opencvcourse.md)      | 09/10/2024 -    | Python and Machine Learning  | [OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o)      |
 
 </center>
