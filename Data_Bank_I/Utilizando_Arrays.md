@@ -1,8 +1,8 @@
 
 # Utilizando Arrays no Javascript; 
-- Utilizando Arrays:
--
--
+[16/10/2024]
+- Utilizando e Manipulando Arrays:
+
 **Utilizando Arrays:**
 ---
 - Para criar Arrays, faremos da seguinte forma:, lembrando que neste exemplo, o index de cada livro seria **0, 1, 2**
