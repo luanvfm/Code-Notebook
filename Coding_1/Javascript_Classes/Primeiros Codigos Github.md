@@ -37,8 +37,8 @@ Códigos essenciais para utilizar o GitHub.
 - **Para ver o status do GitHub:**  
     `git status`
 
-- **Para adicionar arquivos ao GitHub:**  
-    `git status`
+- **Para adicionar arquivos ao GitHub: (Com "." no final voce vai adicionar todos os arquivos, mas se quiser adicionar um arquivo especifico usa só "nomedoarquivo.extensaodoarquivo")**  
+    `git add .`
 
 - **Para conectar os arquivos locais ao GitHub:**  
     `git init`
