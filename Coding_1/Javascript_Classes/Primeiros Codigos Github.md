@@ -12,6 +12,8 @@ No terminal, mande esses códigos para a pasta do terminal que voce criou
 
 - `$ git config --global user.name "luanvfm"`
 - `$ git config --global user.email "luanventurafm2@gmail.com"`
+*Para Configurar um repo já existente:*
+- `git remote add origin git@github.com:User/UserRepo.git`
 
 Depois 
 - Siga para configurações do Github,   
