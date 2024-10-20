@@ -38,10 +38,6 @@ console.log(livros.push(inserir));
 
 
 
-
-
-
-
 **Código Final da Aula:**
 ```
 let livros = ["javascript", "ECMAScript", "MongoDB"];
