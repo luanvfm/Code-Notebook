@@ -1,0 +1,11 @@
+cria uma pasta local 
+comando|: git init (inicia repositorio git local)
+ configurações globais: git config --global user.name 'seu nome'
+ configurações globais: git config --global user.email 'seu email' 
+ conexão com o repositorio remoto: git remote add origin link http para o repositorio
+ mudar nome da branch para main: git branch -M main 
+ verificar alterações locais: git status
+ adicionar alterações na staged area: git add . ou nome do arquivo 
+ comittar para o repositorio: git commit -m 'txsto'
+ fazer push: git push -u origin main 
+  
