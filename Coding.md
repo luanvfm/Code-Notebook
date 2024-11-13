@@ -10,5 +10,6 @@
 | [Primeiros Codigos Github](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Javascript_Classes/Primeiros%20Codigos%20Github.md)      | 25/09/2024    | Configurando GitHub Inicial e Codigos Simples |
 | [Utilizando Arrays e as Manipulando](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Javascript_Classes/Utilizando_Arrays.md)      | 16/10/2024    | Javascript Arrays  |
 | [Funções no Javascript](https://github.com/luanvfm/Code-Notebook/blob/main/Coding_1/Javascript_Classes/FuncoesJavascript.md)      | 13/11/2024    | Javascript Functions  |
+
 **Link de Projetos e Atividades:**
 - [Atividade Tipos Primitivos](https://github.com/luanvfm/Code-Notebook/tree/main/Coding_1/Javascript_Classes/JSS_PROJECTS/Atv_Tipos_Primitivos)
